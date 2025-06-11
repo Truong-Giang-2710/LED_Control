@@ -14,7 +14,7 @@
 - `LED Control.rar`: Project for LED bar control.
 - `LED Matrix.zip`: Project for LED matrix control.
 
-o🚀 How to Run the Simulation
+🚀 How to Run the Simulation
 1. Open the project files using **Keil uVision5** to review and build the code.
 2. Open the simulation files in **Proteus**.
 3. Load the generated `.hex` file into the STM32 microcontroller in Proteus.
