@@ -1,10 +1,12 @@
 📝 Introduction
-  This project focuses on controlling LEDs using STM32 microcontrollers, simulated on Proteus software.  
+  Description: This project focuses on controlling LEDs display number on request using STM32 microcontrollers and simulated on Proteus software.  
+  Teamsize: 1
+  
   The project includes:
   - LED Bar Control: Controlling LED running effects.
   - LED Matrix Control: Displaying characters or basic visual effects.
 
-⚙️ Technologies Used
+⚙️ Technical Used:
 - Keil uVision5
 - STM32CubeMX
 - Proteus
